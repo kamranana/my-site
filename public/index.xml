@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Ana Kamran</title>
-    <link>http://localhost:63317/</link>
+    <link>http://localhost:63926/</link>
     <description>Recent content in Home on Ana Kamran</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Ana Kamran</copyright>
     <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:63317/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63926/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:63317/about/</link>
+      <link>http://localhost:63926/about/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63317/about/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m Ana.&#xA;Currently a grad student studying Cybersecurity @ NYU Tandon&amp;hellip; whilst wrapping up a CS degree @ Merrimack College.&#xA;This is my attempt to keep track of my coursework as I rate and review every online Master&amp;rsquo;s course I&amp;rsquo;ve taken.&lt;/p&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Information, Security &amp;amp; Privacy. Great introductory course, excited to write research paper&lt;/p&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Computer Networking. Good, lots of memorization. Exam-heavy&lt;/p&gt;</description>
+      <guid>http://localhost:63926/about/</guid>
+      <description>&lt;p&gt;Hi, I’m Ana.&lt;/p&gt;&#xA;&lt;p&gt;I’m documenting coursework, projects, and notes as I work through my CS journey. Currently a grad student studying Cybersecurity @ NYU Tandon&amp;hellip; whilst wrapping up a CS degree @ Merrimack College.&lt;/p&gt;&#xA;&lt;p&gt;This is my attempt to keep track of my coursework as I rate and review every online Master&amp;rsquo;s course I&amp;rsquo;ve taken (there are a lot).&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/kamranana&#34;&gt;https://github.com/kamranana&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Contact: &lt;a href=&#34;mailto:anakamrann@gmail.com&#34;&gt;anakamrann@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Every Master&#39;s Course I&#39;ve Taken</title>
-      <link>http://localhost:63317/courses/</link>
+      <title>everything</title>
+      <link>http://localhost:63926/everything/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63317/courses/</guid>
-      <description>&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Computer Networking&lt;/strong&gt;, NYU. &lt;strong&gt;Great so far.&lt;/strong&gt; Short notes…&lt;/li&gt;&#xA;&lt;li&gt;**Information, Security &amp;amp; Privacy **, NYU. &lt;strong&gt;Great!&lt;/strong&gt; Short notes…&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;degrees&#34;&gt;Degrees&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;MS Cybersecurity&lt;/strong&gt;, School. Notes…&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:63926/everything/</guid>
+      <description>&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Information, Security &amp;amp; Privacy. Great introductory course, excited to write research paper&lt;/p&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Computer Networking. Good, lots of memorization. Exam-heavy&lt;/p&gt;&#xA;&lt;p&gt;Fall 2024, Merrimack College&#xA;Basic Programming and Discrete Mathematics. Good introductory course, hadn&amp;rsquo;t taken anythig related to mathematics since undergrad. Had to brush up a lot on fundamentals&lt;/p&gt;&#xA;&lt;p&gt;Spring 2025, Merrimack College&#xA;Algorithms &amp;amp; Discrete Stuctures. First forray into the world of algorithms. I found the pace initially difficult to keep up with. Decent structure of course&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:63317/posts/my-first-post/</link>
+      <link>http://localhost:63926/posts/my-first-post/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:63317/posts/my-first-post/</guid>
+      <guid>http://localhost:63926/posts/my-first-post/</guid>
       <description>&lt;p&gt;Hello world — this is my first post.&lt;/p&gt;</description>
     </item>
   </channel>

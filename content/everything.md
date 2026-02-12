@@ -1,5 +1,5 @@
 ---
-title: "Courses"
+title: "everything"
 date: 2026-02-12
 ---
 ## Courses
