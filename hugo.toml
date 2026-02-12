@@ -17,7 +17,7 @@ copyright = "© Ana Kamran"
 # Menu
 [[menu.main]]
 name = "about"
-url = "/about"
+url = "/"
 weight = 1
 
 [[menu.main]]
