@@ -2,6 +2,3 @@ baseURL = "https://yourdomain.com/"
 languageCode = "en-us"
 title = "My Website"
 theme = "archie"
-
-[params]
-  mode = "auto"
