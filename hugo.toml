@@ -34,9 +34,3 @@ weight = 3
 name = "Tags"
 url = "/tags"
 weight = 4
-
-# Tags support
-[taxonomies]
-  tag = "tags"
-[params]
-  mode = "toggle"

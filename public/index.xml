@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Ana Kamran</title>
-    <link>https://anakamran.netlify.app/</link>
+    <link>http://localhost:62811/</link>
     <description>Recent content in Home on Ana Kamran</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Ana Kamran</copyright>
     <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://anakamran.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:62811/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://anakamran.netlify.app/about/</link>
+      <link>http://localhost:62811/about/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://anakamran.netlify.app/about/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m Ana. Currently a grad student studying Cybersecurity @ NYU Tandon&amp;hellip; whilst wrapping up a CS degree @ Merrimack College.&#xA;This is my attempt to keep track of my coursework as I rate and review every online master&amp;rsquo;s course I&amp;rsquo;ve taken.&lt;/p&gt;</description>
+      <guid>http://localhost:62811/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Ana.&#xA;Currently a grad student studying Cybersecurity @ NYU Tandon&amp;hellip; whilst wrapping up a CS degree @ Merrimack College.&#xA;This is my attempt to keep track of my coursework as I rate and review every online Master&amp;rsquo;s course I&amp;rsquo;ve taken.&lt;/p&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Information, Security &amp;amp; Privacy. Great introductory course, excited to write research paper&lt;/p&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Computer Networking. Good, lots of memorization. Exam-heavy&lt;/p&gt;</description>
     </item>
     <item>
       <title>Every Master&#39;s Course I&#39;ve Taken</title>
-      <link>https://anakamran.netlify.app/courses/</link>
+      <link>http://localhost:62811/courses/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://anakamran.netlify.app/courses/</guid>
+      <guid>http://localhost:62811/courses/</guid>
       <description>&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Computer Networking&lt;/strong&gt;, NYU. &lt;strong&gt;Great so far.&lt;/strong&gt; Short notes…&lt;/li&gt;&#xA;&lt;li&gt;**Information, Security &amp;amp; Privacy **, NYU. &lt;strong&gt;Great!&lt;/strong&gt; Short notes…&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;degrees&#34;&gt;Degrees&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;MS Cybersecurity&lt;/strong&gt;, School. Notes…&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://anakamran.netlify.app/posts/my-first-post/</link>
+      <link>http://localhost:62811/posts/my-first-post/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://anakamran.netlify.app/posts/my-first-post/</guid>
+      <guid>http://localhost:62811/posts/my-first-post/</guid>
       <description>&lt;p&gt;Hello world — this is my first post.&lt;/p&gt;</description>
     </item>
   </channel>
