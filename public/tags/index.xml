@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://localhost:62595/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Ana Kamran</title>
+    <link>https://anakamran.netlify.app/tags/</link>
+    <description>Recent content in Tags on Ana Kamran</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <copyright>© Ana Kamran</copyright>
     <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:62595/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anakamran.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>http://localhost:62595/tags/blog/</link>
+      <link>https://anakamran.netlify.app/tags/blog/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62595/tags/blog/</guid>
+      <guid>https://anakamran.netlify.app/tags/blog/</guid>
       <description></description>
     </item>
   </channel>
