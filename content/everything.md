@@ -33,7 +33,6 @@ Systems + Languages Survey (In Progress)
 
 ## Courses I want to take
 Georgia Tech's (Micro)Master's in Analytics 
-currently enrolled for Fall 2026
 
 ## FAQ
 Q: Why are you taking so many courses? I enjoy learning and kind of have had a spiraling effect since enrolling into a couple MOOCs during the pandemic era of virtual learning. I'm also scared of a robot replacing my 9-5 and like staying on top of my learning & growth
