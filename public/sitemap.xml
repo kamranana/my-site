@@ -2,27 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:64209/posts/</loc>
+    <loc>http://localhost:64417/courses/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:64209/tags/blog/</loc>
+    <loc>http://localhost:64417/everything/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:64209/everything/</loc>
+    <loc>http://localhost:64417/about/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:64209/about/</loc>
+    <loc>http://localhost:64417/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:64209/</loc>
-    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:64417/posts/</loc>
   </url><url>
-    <loc>http://localhost:64209/posts/my-first-post/</loc>
-    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:64417/categories/</loc>
   </url><url>
-    <loc>http://localhost:64209/tags/</loc>
-    <lastmod>2026-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:64209/categories/</loc>
+    <loc>http://localhost:64417/tags/</loc>
   </url>
 </urlset>
