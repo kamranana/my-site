@@ -10,7 +10,7 @@ Spring 2026, NYU Tandon
 Computer Networking. Good, lots of memorization. Exam-heavy
 
 Fall 2024, Merrimack College
-Basic Programming and Discrete Mathematics. Good introductory course, hadn't taken anythig related to mathematics since undergrad. Had to brush up a lot on fundamentals
+Basic Programming and Discrete Mathematics. Good introductory course, hadn't taken anything related to mathematics since undergrad. Had to brush up a lot on fundamentals
 
 Spring 2025, Merrimack College
 Algorithms & Discrete Stuctures. First forray into the world of algorithms. I found the pace initially difficult to keep up with. Decent structure of course
