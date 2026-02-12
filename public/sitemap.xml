@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:63110/about/</loc>
+    <loc>https://anakamran.netlify.app/about/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63110/posts/</loc>
+    <loc>https://anakamran.netlify.app/posts/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63110/tags/blog/</loc>
+    <loc>https://anakamran.netlify.app/tags/blog/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63110/courses/</loc>
+    <loc>https://anakamran.netlify.app/courses/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63110/</loc>
+    <loc>https://anakamran.netlify.app/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63110/posts/my-first-post/</loc>
+    <loc>https://anakamran.netlify.app/posts/my-first-post/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63110/tags/</loc>
+    <loc>https://anakamran.netlify.app/tags/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63110/categories/</loc>
+    <loc>https://anakamran.netlify.app/categories/</loc>
   </url>
 </urlset>
