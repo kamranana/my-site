@@ -35,8 +35,7 @@ Georgia Tech's (Micro)Master's in Analytics
 currently enrolled for Fall 2026!
 
 ## FAQ
-Q: Why are you taking so many courses?
-"Once you have tasted academia, corporate is never enough". I enjoy learning and kind of have had a spiraling effect since enrolling into a couple MOOCs during the pandemic era of virtual learning. I'm also scared of a robot replacing my 9-5 and like staying on top of my learning & growth
+Q: Why are you taking so many courses? I enjoy learning and kind of have had a spiraling effect since enrolling into a couple MOOCs during the pandemic era of virtual learning. I'm also scared of a robot replacing my 9-5 and like staying on top of my learning & growth
 
 Q: When are you gonna stop?
 Not sure, I'm currently looking at OMSCS and OMSCA at GT & OMSCS at UT-Austin. The <$11k tuition tag seems too good to pass up. I'll slow down eventually hehe
