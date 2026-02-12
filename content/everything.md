@@ -13,7 +13,7 @@ Fall 2024, Merrimack College
 Basic Programming and Discrete Mathematics. Good introductory course, hadn't taken anything related to mathematics since undergrad. Had to brush up a lot on fundamentals
 
 Spring 2025, Merrimack College
-Algorithms & Discrete Stuctures. First forray into the world of algorithms. I found the pace initially difficult to keep up with. Decent structure of course
+Algorithms & Discrete Stuctures. First foray into the world of algorithms. I found the pace initially difficult to keep up with. Decent structure of course
 
 Summer 2025, Merrimack College
 Advanced Algorithms. A lot of studying! By this time, I had gotten accustomed to thinking "like a programmer" and was able to apply knowledge gained in Algorithms & Discrete Structures to build upon my skillset

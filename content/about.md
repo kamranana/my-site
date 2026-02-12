@@ -10,5 +10,4 @@ currently a grad student studying cybersecurity @ nyu tandon... whilst wrapping 
 this is my attempt to keep track of my coursework as I rate and review every online Master's course I've taken (there are a lot).
 
 - GitHub: https://github.com/kamranana
-- Contact: anakamrann@gmail.com
 
