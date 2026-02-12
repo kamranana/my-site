@@ -1,26 +1,46 @@
-/* Make the content width feel like Allan's page */
-main {
-  max-width: 760px;
-}
+:root {
+  /* ===== MAIN THEME: BLACK + DARK MAGENTA + PINK ===== */
 
-/* Better reading rhythm */
-p, li {
-  line-height: 1.7;
-}
+  /* Primary accent (dark magenta / pink) */
+  --color-primary: #ff0080;
+  --color-primary-hover: #cc0066;
 
-/* Make long ordered lists easier to scan */
-ol > li {
-  margin-bottom: 0.9rem;
-}
+  /* Borders / accent lines */
+  --color-border: #ff00ff;
 
-/* Nicer anchors/jump links */
-a {
-  text-underline-offset: 3px;
-  text-decoration-thickness: 2px;
-}
+  /* Callouts */
+  --color-callout: #00ff88;
 
-/* Make headings breathe a bit */
-h2 {
-  margin-top: 2.2rem;
-}
+  /* Text */
+  --color-text: #00ff88; /* neon green text */
+  --color-text-muted: #b3b3b3;
+  --color-text-meta: #888888;
 
+  /* Backgrounds */
+  --color-background: #000000; /* BLACK */
+  --color-background-code: #111111;
+  --color-background-pre: #0d0d0d;
+  --color-background-toc: #0d0d0d;
+  --color-background-draft: #1a001a;
+
+  /* ===== DARK MODE (same palette but stronger contrast) ===== */
+
+  --color-primary-dark: #ff4da6;
+  --color-primary-hover-dark: #ff1a8c;
+  --color-border-dark: #ff00ff;
+  --color-text-dark: #00ff88;
+  --color-text-muted-dark: #cccccc;
+  --color-background-dark: #000000;
+  --color-background-code-dark: #111111;
+  --color-background-pre-dark: #050505;
+  --color-background-toc-dark: #050505;
+  --color-background-draft-dark: #330033;
+
+  /* Layout */
+  --content-max-width: 800px;
+  --content-padding: 1ch;
+  --border-radius: 5px;
+  --font-size-base: 15px;
+  --line-height-base: 1.6;
+  --line-height-content: 1.5;
+}

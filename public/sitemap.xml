@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:63032/about/</loc>
+    <loc>http://localhost:63110/about/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63032/posts/</loc>
+    <loc>http://localhost:63110/posts/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63032/tags/blog/</loc>
+    <loc>http://localhost:63110/tags/blog/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63032/courses/</loc>
+    <loc>http://localhost:63110/courses/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63032/</loc>
+    <loc>http://localhost:63110/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63032/posts/my-first-post/</loc>
+    <loc>http://localhost:63110/posts/my-first-post/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63032/tags/</loc>
+    <loc>http://localhost:63110/tags/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:63032/categories/</loc>
+    <loc>http://localhost:63110/categories/</loc>
   </url>
 </urlset>
