@@ -243,14 +243,14 @@ td, th {
 th {
   background: var(--color-background-pre);
 }
-/* =========================
-   WHITE HASHTAGS FOR HEADINGS
-   ========================= */
-
-h1::before { content: "# "; color: #ffffff; }
-h2::before { content: "## "; color: #ffffff; }
-h3::before { content: "### "; color: #ffffff; }
-h4::before { content: "#### "; color: #ffffff; }
-h5::before { content: "##### "; color: #ffffff; }
-h6::before { content: "###### "; color: #ffffff; }
-
+/* White hashtags only in dark mode */
+@media (prefers-color-scheme: dark) {
+  h1::before,
+  h2::before,
+  h3::before,
+  h4::before,
+  h5::before,
+  h6::before {
+    color: #ffffff;
+  }
+}
