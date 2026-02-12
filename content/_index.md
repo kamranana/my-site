@@ -4,9 +4,9 @@ title: "Home"
 
 Welcome 👋
 
-Hi, I'm Ana. 
-Currently a grad student studying Cybersecurity @ NYU Tandon... whilst wrapping up a CS degree @ Merrimack College.
-This is my attempt to keep track of my coursework as I rate and review every online Master's course I've taken (there are a lot).
+hi, i'm ana
+currently a grad student studying cybersecurity @ nyu tandon... whilst wrapping up a ms cs degree @ merrimack college
+this is my attempt to keep track of my coursework as I rate and review every online Master's course I've taken (there are a lot)
 
 
 This is my personal site. Check out **[posts](/posts)**.
