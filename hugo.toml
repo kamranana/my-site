@@ -16,7 +16,7 @@ copyright = "© Ana Kamran"
 
 # Menu
 [[menu.main]]
-name = "about"
+name = "home"
 url = "/"
 weight = 1
 
@@ -25,4 +25,8 @@ name = "everything"
 url = "/everything"
 weight = 2
 
+[[menu.main]]
+name = "about"
+url = "/about"
+weight = 3
 
