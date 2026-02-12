@@ -38,3 +38,5 @@ weight = 4
 # Tags support
 [taxonomies]
   tag = "tags"
+[params]
+  mode = "toggle"
