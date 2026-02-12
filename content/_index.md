@@ -1,7 +1,8 @@
 ---
-title: "Home"
+title: ""
 ---
 
+# about me
 Welcome 👋
 
 hi, i'm ana

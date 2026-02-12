@@ -243,14 +243,23 @@ td, th {
 th {
   background: var(--color-background-pre);
 }
-/* =========================
-   WHITE HASHTAGS FOR HEADINGS
-   ========================= */
+/* --- SAFETY PATCH: ensure content is visible --- */
+body {
+  background: var(--color-background) !important;
+  color: var(--color-text) !important;
+}
 
-h1::before { content: "# "; color: #ffffff; }
-h2::before { content: "## "; color: #ffffff; }
-h3::before { content: "### "; color: #ffffff; }
-h4::before { content: "#### "; color: #ffffff; }
-h5::before { content: "##### "; color: #ffffff; }
-h6::before { content: "###### "; color: #ffffff; }
+.content, main, article, .post-content, .body {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+.body, .body p, .body li, .body a {
+  color: var(--color-text) !important;
+}
+
+.meta {
+  color: var(--color-text-muted) !important;
+}
 

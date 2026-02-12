@@ -2,11 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>All posts on Ana Kamran</title>
-    <link>http://localhost:64417/posts/</link>
+    <link>http://localhost:49259/posts/</link>
     <description>Recent content in All posts on Ana Kamran</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Ana Kamran</copyright>
-    <atom:link href="http://localhost:64417/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Feb 2026 16:28:20 -0500</lastBuildDate>
+    <atom:link href="http://localhost:49259/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:49259/posts/welcome/</link>
+      <pubDate>Thu, 12 Feb 2026 16:28:20 -0500</pubDate>
+      <guid>http://localhost:49259/posts/welcome/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

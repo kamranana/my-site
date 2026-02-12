@@ -1,7 +1,8 @@
 ---
-title: "everything"
+title: "courses"
 date: 2026-02-12
 ---
+
 ## Courses
 Spring 2026, NYU Tandon
 Information, Security & Privacy. Great introductory course, excited to write research paper
@@ -10,10 +11,10 @@ Spring 2026, NYU Tandon
 Computer Networking. Good, lots of memorization. Exam-heavy
 
 Fall 2024, Merrimack College
-Basic Programming and Discrete Mathematics. Good introductory course, hadn't taken anything related to mathematics since undergrad. Had to brush up a lot on fundamentals
+Basic Programming and Discrete Mathematics. Good introductory course, hadn't taken anythig related to mathematics since undergrad. Had to brush up a lot on fundamentals
 
 Spring 2025, Merrimack College
-Algorithms & Discrete Stuctures. First foray into the world of algorithms. I found the pace initially difficult to keep up with. Decent structure of course
+Algorithms & Discrete Stuctures. First forray into the world of algorithms. I found the pace initially difficult to keep up with. Decent structure of course
 
 Summer 2025, Merrimack College
 Advanced Algorithms. A lot of studying! By this time, I had gotten accustomed to thinking "like a programmer" and was able to apply knowledge gained in Algorithms & Discrete Structures to build upon my skillset
@@ -32,6 +33,7 @@ Systems + Languages Survey (In Progress)
 
 ## Courses I want to take
 Georgia Tech's (Micro)Master's in Analytics 
+currently enrolled for Fall 2026
 
 ## FAQ
 Q: Why are you taking so many courses? I enjoy learning and kind of have had a spiraling effect since enrolling into a couple MOOCs during the pandemic era of virtual learning. I'm also scared of a robot replacing my 9-5 and like staying on top of my learning & growth
