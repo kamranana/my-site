@@ -59,12 +59,24 @@ html {
     "Liberation Mono", "Courier New", monospace;
   font-size: var(--font-size-base);
   line-height: var(--line-height-base);
+  background: var(--color-background) !important;
 }
 
 body {
   margin: 0;
   background: var(--color-background) !important;
   color: var(--color-text) !important;
+}
+
+/* Force background on common wrapper elements */
+#app,
+#root,
+.wrapper,
+.container,
+main,
+.main,
+article {
+  background: var(--color-background) !important;
 }
 
 /* -------------------------
@@ -76,6 +88,7 @@ body {
   padding: var(--content-padding);
   margin: 0 auto 4rem auto;
   overflow-wrap: break-word;
+  background: var(--color-background) !important;
 }
 
 /* -------------------------
