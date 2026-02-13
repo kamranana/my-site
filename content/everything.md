@@ -1,5 +1,4 @@
 ---
-title: "master's courses i've taken"
 date: 2026-02-12
 ---
 
