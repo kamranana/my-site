@@ -1,6 +1,6 @@
 baseURL = "https://anakamran.netlify.app/"
 languageCode = "en-us"
-title = "Ana Kamran"
+title = "welcome"
 theme = "archie"
 copyright = "© Ana Kamran"
 
@@ -13,8 +13,6 @@ copyright = "© Ana Kamran"
   taxonomy = ["HTML", "RSS"]
   term = ["HTML", "RSS"]
 
-[taxonomies]
-  tag = "tags"
 
 [params]
   mode = "toggle"
