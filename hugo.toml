@@ -13,7 +13,6 @@ copyright = "© Ana Kamran"
   taxonomy = ["HTML", "RSS"]
   term = ["HTML", "RSS"]
 
-
 [params]
   mode = "toggle"
   useCDN = false
