@@ -63,8 +63,8 @@ html {
 
 body {
   margin: 0;
-  background: var(--color-background);
-  color: var(--color-text);
+  background: var(--color-background) !important;
+  color: var(--color-text) !important;
 }
 
 /* -------------------------
@@ -85,6 +85,7 @@ body {
 p {
   line-height: var(--line-height-content);
   margin: 0.6rem 0;
+  color: var(--color-text) !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -92,6 +93,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 2rem 0 0.75rem 0;
   line-height: 1.25;
   font-weight: 600;
+  color: var(--color-text) !important;
 }
 
 /* -------------------------
@@ -99,7 +101,7 @@ h1, h2, h3, h4, h5, h6 {
 ------------------------- */
 
 a {
-  color: var(--color-link);
+  color: var(--color-link) !important;
   text-decoration: underline;
   text-underline-offset: 3px;
   text-decoration-thickness: 1px;
@@ -108,7 +110,7 @@ a {
 
 a:hover,
 a:focus {
-  background: var(--color-link-hover-bg);
+  background: var(--color-link-hover-bg) !important;
   outline: none;
 }
 
@@ -127,6 +129,7 @@ ol {
 
 li {
   margin: 0.4rem 0;
+  color: var(--color-text) !important;
 }
 
 /* -------------------------
@@ -146,7 +149,7 @@ hr {
 blockquote {
   border-left: 3px solid var(--color-border);
   padding-left: 1rem;
-  color: var(--color-text-muted);
+  color: var(--color-text-muted) !important;
   margin: 1rem 0;
 }
 
@@ -155,14 +158,15 @@ blockquote {
 ------------------------- */
 
 code {
-  background: var(--color-background-code);
+  background: var(--color-background-code) !important;
   padding: 0.15em 0.35em;
   border-radius: 6px;
   font-size: 0.95em;
+  color: var(--color-text) !important;
 }
 
 pre {
-  background: var(--color-background-pre);
+  background: var(--color-background-pre) !important;
   padding: 1rem;
   border-radius: var(--border-radius);
   border: 1px solid var(--color-border);
@@ -170,7 +174,7 @@ pre {
 }
 
 pre code {
-  background: transparent;
+  background: transparent !important;
   padding: 0;
 }
 
@@ -199,7 +203,7 @@ footer {
   border-top: 1px solid var(--color-border);
   padding-top: 2rem;
   margin-top: 3rem;
-  color: var(--color-text-muted);
+  color: var(--color-text-muted) !important;
 }
 
 /* -------------------------
@@ -207,7 +211,7 @@ footer {
 ------------------------- */
 
 .meta {
-  color: var(--color-text-muted);
+  color: var(--color-text-muted) !important;
 }
 
 /* -------------------------
@@ -223,7 +227,7 @@ footer {
 }
 
 .tags a {
-  background: var(--color-background-pre);
+  background: var(--color-background-pre) !important;
   padding: 0.2rem 0.5rem;
   border-radius: 6px;
   text-decoration: none;
@@ -242,8 +246,9 @@ table {
 td, th {
   border: 1px solid var(--color-border);
   padding: 0.5rem;
+  color: var(--color-text) !important;
 }
 
 th {
-  background: var(--color-background-pre);
+  background: var(--color-background-pre) !important;
 }
