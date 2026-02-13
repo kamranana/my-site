@@ -3,18 +3,30 @@ languageCode = "en-us"
 title = "Ana Kamran"
 theme = "archie"
 copyright = "© Ana Kamran"
+
 [pagination]
   pagerSize = 3
 
-# Modern Hugo syntax for code highlighting
-[markup]
-  [markup.highlight]
-    style = "monokai"
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
 
-  [params]
+[taxonomies]
+  tag = "tags"
+
+[params]
+  mode = "toggle"
+  useCDN = false
+  subtitle = ""
   customcss = ["css/first.css"]
 
-# Menu
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/kamranana"
+
 [[menu.main]]
 name = "home"
 url = "/"
@@ -25,10 +37,14 @@ name = "everything"
 url = "/everything"
 weight = 2
 
-[outputs]
-  home = ["HTML", "RSS"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
-  term = ["HTML", "RSS"]
+[[menu.main]]
+name = "about"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "tags"
+url = "/tags"
+weight = 4
 
 
