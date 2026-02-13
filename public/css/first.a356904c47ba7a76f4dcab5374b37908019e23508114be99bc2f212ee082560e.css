@@ -32,19 +32,16 @@
    DARK MODE
 ------------------------- */
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --color-text: #e5e7eb;
-    --color-text-muted: #9ca3af;
-    --color-border: rgba(229, 231, 235, 0.15);
-    --color-background: #0b0f14;
-
-    --color-link: #e5e7eb;
-    --color-link-hover-bg: rgba(229, 231, 235, 0.08);
-
-    --color-background-code: rgba(229, 231, 235, 0.08);
-    --color-background-pre: rgba(229, 231, 235, 0.08);
-  }
+/* Archie theme applies .dark-mode class to body */
+body.dark-mode {
+  --color-text: #e5e7eb;
+  --color-text-muted: #9ca3af;
+  --color-border: rgba(229, 231, 235, 0.15);
+  --color-background: #0b0f14;
+  --color-link: #e5e7eb;
+  --color-link-hover-bg: rgba(229, 231, 235, 0.08);
+  --color-background-code: rgba(229, 231, 235, 0.08);
+  --color-background-pre: rgba(229, 231, 235, 0.08);
 }
 
 /* -------------------------
@@ -57,17 +54,17 @@
   box-sizing: border-box;
 }
 
-body {
-  margin: 0;
-  background: var(--color-background);
-  color: var(--color-text);
-}
-
 html {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
     "Liberation Mono", "Courier New", monospace;
   font-size: var(--font-size-base);
   line-height: var(--line-height-base);
+}
+
+body {
+  margin: 0;
+  background: var(--color-background);
+  color: var(--color-text);
 }
 
 /* -------------------------
@@ -106,7 +103,6 @@ a {
   text-decoration: underline;
   text-underline-offset: 3px;
   text-decoration-thickness: 1px;
-  border: none;
   transition: background-color 0.15s ease;
 }
 
@@ -207,6 +203,14 @@ footer {
 }
 
 /* -------------------------
+   METADATA
+------------------------- */
+
+.meta {
+  color: var(--color-text-muted);
+}
+
+/* -------------------------
    TAGS
 ------------------------- */
 
@@ -242,34 +246,5 @@ td, th {
 
 th {
   background: var(--color-background-pre);
-}
-/* --- SAFETY PATCH: ensure content is visible --- */
-body {
-  background: var(--color-background) !important;
-  color: var(--color-text) !important;
-}
-
-.content, main, article, .post-content, .body {
-  display: block !important;
-  visibility: visible !important;
-  opacity: 1 !important;
-}
-
-.body, .body p, .body li, .body a {
-  color: var(--color-text) !important;
-}
-
-.meta {
-  color: var(--color-text-muted) !important;
-}
-
-/* Make heading hashtags white */
-h1::before,
-h2::before,
-h3::before,
-h4::before,
-h5::before,
-h6::before {
-  color: #ffffff !important;
 }
 
