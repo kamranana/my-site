@@ -17,17 +17,17 @@
       <description></description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/everything/</link>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/everything/</guid>
-      <description>&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Information, Security &amp;amp; Privacy. Great introductory course, excited to write research paper&lt;/p&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Computer Networking. Good, lots of memorization. Exam-heavy&lt;/p&gt;&#xA;&lt;p&gt;Fall 2024, Merrimack College&#xA;Basic Programming and Discrete Mathematics. Good introductory course, hadn&amp;rsquo;t taken anythig related to mathematics since undergrad. Had to brush up a lot on fundamentals&lt;/p&gt;&#xA;&lt;p&gt;Spring 2025, Merrimack College&#xA;Algorithms &amp;amp; Discrete Stuctures. First forray into the world of algorithms. I found the pace initially difficult to keep up with. Decent structure of course&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Courses</title>
       <link>http://localhost:1313/courses/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/courses/</guid>
+      <description>&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Information, Security &amp;amp; Privacy. Great introductory course, excited to write research paper&lt;/p&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Computer Networking. Good, lots of memorization. Exam-heavy&lt;/p&gt;&#xA;&lt;p&gt;Fall 2024, Merrimack College&#xA;Basic Programming and Discrete Mathematics. Good introductory course, hadn&amp;rsquo;t taken anythig related to mathematics since undergrad. Had to brush up a lot on fundamentals&lt;/p&gt;&#xA;&lt;p&gt;Spring 2025, Merrimack College&#xA;Algorithms &amp;amp; Discrete Stuctures. First forray into the world of algorithms. I found the pace initially difficult to keep up with. Decent structure of course&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>every online course i&#39;ve ever taken</title>
+      <link>http://localhost:1313/everything/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/everything/</guid>
       <description>&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Information, Security &amp;amp; Privacy. Great introductory course, excited to write research paper&lt;/p&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Computer Networking. Good, lots of memorization. Exam-heavy&lt;/p&gt;&#xA;&lt;p&gt;Fall 2024, Merrimack College&#xA;Basic Programming and Discrete Mathematics. Good introductory course, hadn&amp;rsquo;t taken anythig related to mathematics since undergrad. Had to brush up a lot on fundamentals&lt;/p&gt;&#xA;&lt;p&gt;Spring 2025, Merrimack College&#xA;Algorithms &amp;amp; Discrete Stuctures. First forray into the world of algorithms. I found the pace initially difficult to keep up with. Decent structure of course&lt;/p&gt;</description>
     </item>
     <item>
