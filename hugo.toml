@@ -25,4 +25,10 @@ name = "everything"
 url = "/everything"
 weight = 2
 
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+
 
