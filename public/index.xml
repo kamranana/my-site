@@ -1,40 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>about me on Ana Kamran</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in about me on Ana Kamran</description>
+    <title>Ana Kamran</title>
+    <link>http://localhost:50777/</link>
+    <description>Recent content on Ana Kamran</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Ana Kamran</copyright>
-    <lastBuildDate>Thu, 12 Feb 2026 16:28:20 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Welcome</title>
-      <link>http://localhost:1313/posts/welcome/</link>
-      <pubDate>Thu, 12 Feb 2026 16:28:20 -0500</pubDate>
-      <guid>http://localhost:1313/posts/welcome/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Thu, 12 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:50777/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Courses</title>
-      <link>http://localhost:1313/courses/</link>
+      <link>http://localhost:50777/courses/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/</guid>
+      <guid>http://localhost:50777/courses/</guid>
       <description>&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Information, Security &amp;amp; Privacy. Great introductory course, excited to write research paper&lt;/p&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Computer Networking. Good, lots of memorization. Exam-heavy&lt;/p&gt;&#xA;&lt;p&gt;Fall 2024, Merrimack College&#xA;Basic Programming and Discrete Mathematics. Good introductory course, hadn&amp;rsquo;t taken anythig related to mathematics since undergrad. Had to brush up a lot on fundamentals&lt;/p&gt;&#xA;&lt;p&gt;Spring 2025, Merrimack College&#xA;Algorithms &amp;amp; Discrete Stuctures. First forray into the world of algorithms. I found the pace initially difficult to keep up with. Decent structure of course&lt;/p&gt;</description>
     </item>
     <item>
       <title>every online course i&#39;ve ever taken</title>
-      <link>http://localhost:1313/everything/</link>
+      <link>http://localhost:50777/everything/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/everything/</guid>
+      <guid>http://localhost:50777/everything/</guid>
       <description>&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Information, Security &amp;amp; Privacy. Great introductory course, excited to write research paper&lt;/p&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Computer Networking. Good, lots of memorization. Exam-heavy&lt;/p&gt;&#xA;&lt;p&gt;Fall 2024, Merrimack College&#xA;Basic Programming and Discrete Mathematics. Good introductory course, hadn&amp;rsquo;t taken anythig related to mathematics since undergrad. Had to brush up a lot on fundamentals&lt;/p&gt;&#xA;&lt;p&gt;Spring 2025, Merrimack College&#xA;Algorithms &amp;amp; Discrete Stuctures. First forray into the world of algorithms. I found the pace initially difficult to keep up with. Decent structure of course&lt;/p&gt;</description>
     </item>
     <item>
       <title>home</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:50777/about/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:50777/about/</guid>
       <description>&lt;p&gt;hi, i&amp;rsquo;m ana&#xA;currently a grad student studying cybersecurity @ nyu tandon&amp;hellip; whilst wrapping up a ms cs degree @ merrimack college&lt;/p&gt;&#xA;&lt;p&gt;this is my attempt to keep track of my coursework as I rate and review every online Master&amp;rsquo;s course I&amp;rsquo;ve taken (there are a lot).&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/kamranana&#34;&gt;https://github.com/kamranana&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

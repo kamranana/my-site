@@ -44,13 +44,3 @@
   --line-height-base: 1.6;
   --line-height-content: 1.5;
 }
-:root {
-  --color-primary: #ff00ff !important;        /* magenta */
-  --color-primary-hover: #cc0066 !important;  /* darker pink */
-  --color-border: #ff00ff !important;
-}
-
-/* If the red is the heading hashtag/prefix */
-h1::before, h2::before, h3::before, h4::before, h5::before, h6::before {
-  color: #ff00ff !important;
-}

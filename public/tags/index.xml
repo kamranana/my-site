@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ana Kamran</title>
-    <link>http://localhost:50304/tags/</link>
+    <link>http://localhost:50777/tags/</link>
     <description>Recent content in Tags on Ana Kamran</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Ana Kamran</copyright>
-    <atom:link href="http://localhost:50304/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50777/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
