@@ -29,11 +29,15 @@
 }
 
 /* -------------------------
-   DARK MODE
+   DARK MODE - ALL POSSIBLE SELECTORS
 ------------------------- */
 
-/* Archie theme applies .dark-mode class to body */
-body.dark-mode {
+body.dark-mode,
+html.dark-mode,
+.dark-mode,
+[data-theme="dark"],
+html[data-theme="dark"],
+body[data-theme="dark"] {
   --color-text: #e5e7eb;
   --color-text-muted: #9ca3af;
   --color-border: rgba(229, 231, 235, 0.15);
@@ -42,6 +46,30 @@ body.dark-mode {
   --color-link-hover-bg: rgba(229, 231, 235, 0.08);
   --color-background-code: rgba(229, 231, 235, 0.08);
   --color-background-pre: rgba(229, 231, 235, 0.08);
+}
+
+/* -------------------------
+   FORCE BACKGROUNDS EVERYWHERE
+------------------------- */
+
+* {
+  background-color: inherit;
+}
+
+html,
+body,
+#app,
+#root,
+.wrapper,
+.container,
+.main-wrapper,
+main,
+.main,
+article,
+.content,
+section,
+div {
+  background: var(--color-background) !important;
 }
 
 /* -------------------------
@@ -59,24 +87,11 @@ html {
     "Liberation Mono", "Courier New", monospace;
   font-size: var(--font-size-base);
   line-height: var(--line-height-base);
-  background: var(--color-background) !important;
 }
 
 body {
   margin: 0;
-  background: var(--color-background) !important;
   color: var(--color-text) !important;
-}
-
-/* Force background on common wrapper elements */
-#app,
-#root,
-.wrapper,
-.container,
-main,
-.main,
-article {
-  background: var(--color-background) !important;
 }
 
 /* -------------------------
@@ -88,7 +103,6 @@ article {
   padding: var(--content-padding);
   margin: 0 auto 4rem auto;
   overflow-wrap: break-word;
-  background: var(--color-background) !important;
 }
 
 /* -------------------------
