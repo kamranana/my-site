@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://anakamran.netlify.app/</loc>
+    <loc>http://localhost:50722/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anakamran.netlify.app/courses/</loc>
+    <loc>http://localhost:50722/about/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anakamran.netlify.app/everything/</loc>
+    <loc>http://localhost:50722/courses/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anakamran.netlify.app/about/</loc>
+    <loc>http://localhost:50722/everything/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://anakamran.netlify.app/categories/</loc>
+    <loc>http://localhost:50722/categories/</loc>
   </url><url>
-    <loc>https://anakamran.netlify.app/tags/</loc>
+    <loc>http://localhost:50722/tags/</loc>
   </url>
 </urlset>
