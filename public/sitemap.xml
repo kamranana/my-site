@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:50313/</loc>
+    <loc>http://localhost:51044/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50313/books/</loc>
+    <loc>http://localhost:51044/books/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50313/about/</loc>
+    <loc>http://localhost:51044/about/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50313/courses/</loc>
+    <loc>http://localhost:51044/courses/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50313/everything/</loc>
+    <loc>http://localhost:51044/everything/</loc>
     <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50313/categories/</loc>
+    <loc>http://localhost:51044/categories/</loc>
   </url><url>
-    <loc>http://localhost:50313/tags/</loc>
+    <loc>http://localhost:51044/tags/</loc>
   </url>
 </urlset>
