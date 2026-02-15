@@ -6,7 +6,7 @@ draft: false
 
 hi, i'm ana 
 
-currently a grad student studying cybersecurity @ nyu tandon while simultaneously wrapping up a mscs degree @ merrimack college
++ currently a grad student studying cybersecurity @ nyu tandon &  cs @ merrimack college
 
 + interests in AI and data
 
