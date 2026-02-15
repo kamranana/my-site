@@ -40,8 +40,9 @@ url = "/about"
 weight = 3
 
 [[menu.main]]
-name = "tags"
-url = "/tags"
+name = "books"
+url = "/books"
 weight = 4
+
 
 
