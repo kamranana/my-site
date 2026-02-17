@@ -4,10 +4,10 @@ date: 2026-02-12
 ---
 ## Courses
 Spring 2026, NYU Tandon
-Information, Security & Privacy. Great introductory course, excited to write research paper
+Information, Security & Privacy. Great introductory course to computer security concepts and basics. Class consists of immersive labs, programming assignments, and a final research paper. Course outline includes security design principles, threat modeling, crypotography, injection attacks etc. Extremely helpful TAs and professor and an active Slack channel + discussion board.
 
 Spring 2026, NYU Tandon
-Computer Networking. Good, lots of memorization. Exam-heavy
+Computer Networking. Good - course takes a top-down approach to computer networking. Course covers the application layer, transport layer, network layer and links layer. Lots of memorization. Exam-heavy! 
 
 Fall 2024, Merrimack College
 Basic Programming and Discrete Mathematics. Good introductory course, hadn't taken anythig related to mathematics since undergrad. Had to brush up a lot on fundamentals
@@ -25,7 +25,7 @@ Fall 2025, Merrimack College
 Software Design & Documentation. I loved this course! Professor GK left a strong impression on me -- solid course, I love SLDC-stuff
 
 Fall 2025, Merrimack College
-Database Principles. I no longer hate SQL! This was a well-built out class that delved into relational databases, query optimization, etc. Learned a lot 
+Database Principles. I no longer am scared of SQL! This was a well-built out class that delved into relational databases, query optimization, etc. Learned a lot 
 
 Spring 2026, Merrimack College
 Systems + Languages Survey (In Progress)
