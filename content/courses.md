@@ -4,7 +4,7 @@ date: 2026-02-12
 ---
 ## Courses
 Spring 2026, NYU Tandon
-Information, Security & Privacy. Great introductory course to computer security concepts and basics. Class consists of immersive labs, programming assignments, and a final research paper. Course outline includes security design principles, threat modeling, cryptoography, injection attacks etc. Extremely helpful TAs and professor and an active Slack channel + discussion board.
+Information, Security & Privacy. Great introductory course to computer security concepts and basics. Class consists of immersive labs, programming assignments, and a final research paper. Course outline includes security design principles, threat modeling, cryptography, injection attacks etc. Extremely helpful TAs and professor and an active Slack channel + discussion board.
 
 Spring 2026, NYU Tandon
 Computer Networking. Good - course takes a top-down approach to computer networking. Course covers the application layer, transport layer, network layer and links layer. Lots of memorization. Exam-heavy! 
