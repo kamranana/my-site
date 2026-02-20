@@ -16,9 +16,6 @@ This page tracks my CS progress (adapted to my goals) through graduate study, se
 ## Core Programming
 Provider | Course | Completion Date | Completed
 ---|---|---|---
-OSSU| Systematic Program Design | - | -
-OSSU | Class-Based Program Design | - | -
-OSSU | Programming Languages | - | -
 OSSU | Object-Oriented Design | - | - 
 OSSU | Software Architecture | - | -
 
