@@ -31,7 +31,7 @@ weight = 1
 
 [[menu.main]]
 name = "course reviews"
-url = "/course reviews"
+url = "/everything"
 weight = 3
 
 [[menu.main]]
