@@ -7,8 +7,29 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Ana Kamran</copyright>
-    <lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 03:37:13 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cybersecurity</title>
+      <link>http://localhost:1313/cybersecurity/</link>
+      <pubDate>Fri, 20 Feb 2026 03:37:13 -0500</pubDate>
+      <guid>http://localhost:1313/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>cs progress</title>
+      <link>http://localhost:1313/csprogress/</link>
+      <pubDate>Fri, 20 Feb 2026 03:29:08 -0500</pubDate>
+      <guid>http://localhost:1313/csprogress/</guid>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;&#xA;&lt;p&gt;This repository tracks my progress studying computer science. I have made modifications to fit my own goals better.&lt;/p&gt;&#xA;&lt;h1 id=&#34;progress&#34;&gt;Progress&lt;/h1&gt;&#xA;&lt;p&gt;Core CS&lt;/p&gt;&#xA;&lt;p&gt;Core Systems&lt;/p&gt;&#xA;&lt;p&gt;Core Security&#xA;[Cybersecurity curriculum at NYU Tandon]&lt;/p&gt;&#xA;&lt;p&gt;Provider&#x9;Course&#x9;&#x9;&#x9;Completion &#x9;&#x9;Date Completed&#xA;NYU&#x9;&#x9;Computer Networking&#x9;&#x9;&#x9;&#x9;✅ In Progress&#xA;NYU &#x9;&#x9;Information, Security &amp;amp; Privacy&#x9;&#x9;&#x9;✅ In Progress&lt;/p&gt;&#xA;&lt;p&gt;Core Applications&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/blog/</link>
+      <pubDate>Fri, 20 Feb 2026 03:27:44 -0500</pubDate>
+      <guid>http://localhost:1313/blog/</guid>
+      <description></description>
+    </item>
     <item>
       <title>books</title>
       <link>http://localhost:1313/books/</link>
@@ -24,17 +45,17 @@
       <description>&lt;p&gt;hi, i&amp;rsquo;m ana | an analytics engineer | currently studying ms cybersecurity @ nyu tandon +  ms computer science @ merrimack college | interests in AI and data&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/kamranana&#34;&gt;https://github.com/kamranana&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
+      <title>course reviews</title>
+      <link>http://localhost:1313/everything/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/everything/</guid>
+      <description>&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Information, Security &amp;amp; Privacy. Great introductory course to computer security concepts and basics. Class consists of immersive labs, programming assignments, and a final research paper. Course outline includes security design principles, threat modeling, cryptography, injection attacks etc. Extremely helpful TAs and professor and an active Slack channel + discussion board.&lt;/p&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Computer Networking. Good - course takes a top-down approach to computer networking. Course covers the application layer, transport layer, network layer and links layer. Lots of memorization. Exam-heavy!&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Courses</title>
       <link>http://localhost:1313/courses/</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/courses/</guid>
-      <description>&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Information, Security &amp;amp; Privacy. Great introductory course to computer security concepts and basics. Class consists of immersive labs, programming assignments, and a final research paper. Course outline includes security design principles, threat modeling, cryptography, injection attacks etc. Extremely helpful TAs and professor and an active Slack channel + discussion board.&lt;/p&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Computer Networking. Good - course takes a top-down approach to computer networking. Course covers the application layer, transport layer, network layer and links layer. Lots of memorization. Exam-heavy!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>every online course i&#39;ve ever taken</title>
-      <link>http://localhost:1313/everything/</link>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/everything/</guid>
       <description>&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Information, Security &amp;amp; Privacy. Great introductory course to computer security concepts and basics. Class consists of immersive labs, programming assignments, and a final research paper. Course outline includes security design principles, threat modeling, cryptography, injection attacks etc. Extremely helpful TAs and professor and an active Slack channel + discussion board.&lt;/p&gt;&#xA;&lt;p&gt;Spring 2026, NYU Tandon&#xA;Computer Networking. Good - course takes a top-down approach to computer networking. Course covers the application layer, transport layer, network layer and links layer. Lots of memorization. Exam-heavy!&lt;/p&gt;</description>
     </item>
   </channel>
