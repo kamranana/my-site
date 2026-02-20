@@ -30,19 +30,34 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "everything"
-url = "/everything"
-weight = 2
+name = "course reviews"
+url = "/course reviews"
+weight = 3
 
 [[menu.main]]
 name = "about"
 url = "/about"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "books"
 url = "/books"
 weight = 4
+
+[[menu.main]]
+name = "cybersecurity"
+url = "/cybersecurity"
+weight = 5
+
+[[menu.main]]
+name = "cs progress"
+url = "/cs progress"
+weight = 6
+
+[[menu.main]]
+name = "blog"
+url = "/blog"
+weight = 7
 
 
 
