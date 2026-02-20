@@ -1,5 +1,5 @@
 ---
-title: "every online course i've ever taken"
+title: "course reviews"
 date: 2026-02-12
 ---
 
