@@ -1,12 +1,10 @@
 +++
 date = '2026-02-20T03:29:08-05:00'
 draft = false
-title = computer science studying
+title = "computer science studying"
 +++
 
 ---
-
-# Computer Science
 
 ## Summary
 This page tracks my CS progress (adapted to my goals) through graduate study, self-learning, online MOOCs etc. 
