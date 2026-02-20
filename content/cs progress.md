@@ -4,24 +4,23 @@ draft = true
 title = 'cs progress'
 +++
 
-# Summary
-This repository tracks my progress studying computer science. I have made modifications to fit my own goals better.
+---
+title: "Learning Computer Science"
+date: 2026-02-20
+draft: true
+---
 
-# Progress
-Core CS
+# Computer Science
 
+## Summary
+This page tracks my CS progress (adapted to my goals).
 
+## Progress
 
-Core Systems
+## Core CS
 
-
-
-Core Security
-[Cybersecurity curriculum at NYU Tandon]
-
-Provider	Course			Completion 		Date Completed
-NYU		Computer Networking				✅ In Progress
-NYU 		Information, Security & Privacy			✅ In Progress
-
-
-Core Applications
+### Core Security
+Provider | Course | Completion Date | Completed
+---|---|---|---
+NYU | Computer Networking | - | ✅ In Progress
+NYU | Information, Security & Privacy | - | ✅ In Progress
