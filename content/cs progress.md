@@ -7,7 +7,7 @@ title = 'cs progress'
 ---
 title: "Learning Computer Science"
 date: 2026-02-20
-draft: true
+draft: false
 ---
 
 # Computer Science
