@@ -50,8 +50,8 @@ url = "/cybersecurity"
 weight = 5
 
 [[menu.main]]
-name = "cs progress"
-url = "/cs progress"
+name = "cs-progress"
+url = "/cs-progress"
 weight = 6
 
 [[menu.main]]
