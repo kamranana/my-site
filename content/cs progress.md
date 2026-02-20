@@ -1,6 +1,7 @@
 +++
 date = '2026-02-20T03:29:08-05:00'
 draft = false
+title = computer science studying
 +++
 
 ---
