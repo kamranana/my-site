@@ -49,10 +49,5 @@ name = "cs progress"
 url = "/cs progress"
 weight = 5
 
-[[menu.main]]
-name = "blog"
-url = "/blog"
-weight = 6
-
 
 
