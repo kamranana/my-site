@@ -45,19 +45,14 @@ url = "/books"
 weight = 4
 
 [[menu.main]]
-name = "cybersecurity"
-url = "/cybersecurity"
-weight = 5
-
-[[menu.main]]
 name = "cs progress"
 url = "/cs progress"
-weight = 6
+weight = 5
 
 [[menu.main]]
 name = "blog"
 url = "/blog"
-weight = 7
+weight = 6
 
 
 
