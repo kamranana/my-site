@@ -14,7 +14,6 @@ This page tracks my CS progress (adapted to my goals) through graduate study, se
 ## Core Programming
 Provider | Course | Completion Date | Completed
 ---|---|---|---
-
 OSSU | Object-Oriented Design | - | - 
 OSSU | Software Architecture | - | -
 MIT | Introduction to Computer Science & Programming in Python | Fall 2025 | ✅ 
